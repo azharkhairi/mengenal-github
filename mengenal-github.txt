@@ -1,6 +1,6 @@
 Mengenal Github
 ~ Belajar pertama kali mengelola dengan github
 ~ Belajar pertama kali mengelola dengan github (2)
-~ Belajar pertama kali mengelola dengan github (3)
 
 Mengedit ~ Belajar pertama kali mengelola dengan github
+Belajar pengelanan github
