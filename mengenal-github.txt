@@ -4,3 +4,4 @@ Mengenal Github
 
 Mengedit ~ Belajar pertama kali mengelola dengan github
 Belajar pengelanan github
+* membuat github pertama kali
